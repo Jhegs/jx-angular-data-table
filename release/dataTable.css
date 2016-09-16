@@ -133,6 +133,7 @@
 .dt .dt-footer .dt-pager {
   display: inline-block;
   float: right;
+  margin: 8px;
 }
 .dt .dt-footer .dt-pager .pager,
 .dt .dt-footer .dt-pager .pager li {
